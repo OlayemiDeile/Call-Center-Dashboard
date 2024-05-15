@@ -33,7 +33,7 @@ The call center dashboard for October 2020 provides actionable insights into cus
 
 ### Data Sources 
 
-Call center Data: The primary dataset used for this analysis is the "call_center.csv" file containing inforamtion about calls received. 
+Call center Data: The primary dataset used for this analysis is the "call_center.csv" file containing information about calls received. 
 
 ### Tools Used 
 
