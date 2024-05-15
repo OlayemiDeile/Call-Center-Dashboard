@@ -39,6 +39,5 @@ Call center Data: The primary dataset used for this analysis is the "call_center
 
 - Excel - Data exploration, report creation and visualization
 
-Below is what the final dashboard looks like 
 
 
