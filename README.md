@@ -14,6 +14,11 @@ This report presents a comprehensive overview of call center performance for the
 - Geographical analysis showcases call distribution across different states, aiding in regional performance evaluation.
 
 
+![Call_center_Final_Dashboard](https://github.com/OlayemiDeile/Call-Center-Dashboard/assets/155719357/44fcd45b-1b3b-4294-b703-a75b3a5d1a74)
+
+  
+
+
 **Detailed Analysis**
 
 1. **Call Center Performance**: The dashboard offers insights into call volumes across different call centers, enabling comparison and identification of high-performing units (states)
